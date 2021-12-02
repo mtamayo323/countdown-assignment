@@ -7,5 +7,5 @@ function countDown(num) {
     } else {
       console.log(num)
     }
-  })
+  }, 1000)
 }
